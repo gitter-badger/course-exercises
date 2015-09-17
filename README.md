@@ -1,6 +1,8 @@
 
 # WORKSHOP - "Tools and techniques for massive data analysis"
 
+[![Join the chat at https://gitter.im/cineca-scai/course-exercises](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cineca-scai/course-exercises?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > https://events.prace-ri.eu/conferenceDisplay.py?confId=314
 > http://www.hpc.cineca.it
 > http://www.prace-ri.eu
